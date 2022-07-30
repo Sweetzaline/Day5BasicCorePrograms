@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\FlipCoinPercentage\FlipCoinPercentage\bin\Debug\netcoreapp3.1\FlipCoinPercentage.exe
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\FlipCoinPercentage\FlipCoinPercentage\bin\Debug\netcoreapp3.1\FlipCoinPercentage.deps.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\FlipCoinPercentage\FlipCoinPercentage\bin\Debug\netcoreapp3.1\FlipCoinPercentage.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\FlipCoinPercentage\FlipCoinPercentage\bin\Debug\netcoreapp3.1\FlipCoinPercentage.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\FlipCoinPercentage\FlipCoinPercentage\bin\Debug\netcoreapp3.1\FlipCoinPercentage.dll
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\FlipCoinPercentage\FlipCoinPercentage\obj\Debug\netcoreapp3.1\FlipCoinPercentage.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\FlipCoinPercentage\FlipCoinPercentage\obj\Debug\netcoreapp3.1\FlipCoinPercentage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\FlipCoinPercentage\FlipCoinPercentage\obj\Debug\netcoreapp3.1\FlipCoinPercentage.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\FlipCoinPercentage\FlipCoinPercentage\obj\Debug\netcoreapp3.1\FlipCoinPercentage.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\FlipCoinPercentage\FlipCoinPercentage\obj\Debug\netcoreapp3.1\FlipCoinPercentage.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\FlipCoinPercentage\FlipCoinPercentage\obj\Debug\netcoreapp3.1\FlipCoinPercentage.dll
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\FlipCoinPercentage\FlipCoinPercentage\obj\Debug\netcoreapp3.1\FlipCoinPercentage.pdb
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\FlipCoinPercentage\FlipCoinPercentage\obj\Debug\netcoreapp3.1\FlipCoinPercentage.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\FlipCoinPercentage\FlipCoinPercentage\bin\Debug\netcoreapp3.1\FlipCoinPercentage.pdb
