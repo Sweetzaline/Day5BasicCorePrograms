@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.exe
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.deps.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.dll
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.dll
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.pdb
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.pdb
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.csproj.AssemblyReference.cache
