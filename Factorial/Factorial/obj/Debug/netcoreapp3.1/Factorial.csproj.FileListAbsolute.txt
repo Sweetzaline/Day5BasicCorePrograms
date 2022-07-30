@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.exe
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.deps.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.dll
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.dll
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.pdb
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.pdb
