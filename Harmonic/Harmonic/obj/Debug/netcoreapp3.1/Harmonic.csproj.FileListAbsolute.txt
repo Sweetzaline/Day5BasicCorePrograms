@@ -1,0 +1,13 @@
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Harmonic\Harmonic\obj\Debug\netcoreapp3.1\Harmonic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Harmonic\Harmonic\obj\Debug\netcoreapp3.1\Harmonic.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Harmonic\Harmonic\obj\Debug\netcoreapp3.1\Harmonic.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Harmonic\Harmonic\obj\Debug\netcoreapp3.1\Harmonic.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Harmonic\Harmonic\bin\Debug\netcoreapp3.1\Harmonic.exe
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Harmonic\Harmonic\bin\Debug\netcoreapp3.1\Harmonic.deps.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Harmonic\Harmonic\bin\Debug\netcoreapp3.1\Harmonic.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Harmonic\Harmonic\bin\Debug\netcoreapp3.1\Harmonic.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Harmonic\Harmonic\bin\Debug\netcoreapp3.1\Harmonic.dll
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Harmonic\Harmonic\bin\Debug\netcoreapp3.1\Harmonic.pdb
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Harmonic\Harmonic\obj\Debug\netcoreapp3.1\Harmonic.dll
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Harmonic\Harmonic\obj\Debug\netcoreapp3.1\Harmonic.pdb
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\Harmonic\Harmonic\obj\Debug\netcoreapp3.1\Harmonic.genruntimeconfig.cache
