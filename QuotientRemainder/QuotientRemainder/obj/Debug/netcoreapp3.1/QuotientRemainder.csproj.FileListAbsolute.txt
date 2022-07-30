@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\QuotientRemainder\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.exe
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\QuotientRemainder\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.deps.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\QuotientRemainder\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\QuotientRemainder\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\QuotientRemainder\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.dll
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\QuotientRemainder\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\QuotientRemainder\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\QuotientRemainder\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\QuotientRemainder\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\QuotientRemainder\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\QuotientRemainder\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.dll
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\QuotientRemainder\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.pdb
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\QuotientRemainder\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\QuotientRemainder\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.pdb
