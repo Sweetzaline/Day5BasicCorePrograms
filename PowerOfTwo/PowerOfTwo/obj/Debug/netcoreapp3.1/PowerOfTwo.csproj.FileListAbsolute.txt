@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.exe
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.deps.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.dll
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.dll
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.pdb
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.pdb
