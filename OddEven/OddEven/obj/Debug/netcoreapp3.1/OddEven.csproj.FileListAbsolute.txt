@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\OddEven\OddEven\bin\Debug\netcoreapp3.1\OddEven.exe
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\OddEven\OddEven\bin\Debug\netcoreapp3.1\OddEven.deps.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\OddEven\OddEven\bin\Debug\netcoreapp3.1\OddEven.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\OddEven\OddEven\bin\Debug\netcoreapp3.1\OddEven.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\OddEven\OddEven\bin\Debug\netcoreapp3.1\OddEven.dll
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.dll
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.pdb
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\OddEven\OddEven\obj\Debug\netcoreapp3.1\OddEven.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\OddEven\OddEven\bin\Debug\netcoreapp3.1\OddEven.pdb
