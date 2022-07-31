@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\VowelCheck\VowelCheck\bin\Debug\netcoreapp3.1\VowelCheck.exe
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\VowelCheck\VowelCheck\bin\Debug\netcoreapp3.1\VowelCheck.deps.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\VowelCheck\VowelCheck\bin\Debug\netcoreapp3.1\VowelCheck.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\VowelCheck\VowelCheck\bin\Debug\netcoreapp3.1\VowelCheck.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\VowelCheck\VowelCheck\bin\Debug\netcoreapp3.1\VowelCheck.dll
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\VowelCheck\VowelCheck\obj\Debug\netcoreapp3.1\VowelCheck.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\VowelCheck\VowelCheck\obj\Debug\netcoreapp3.1\VowelCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\VowelCheck\VowelCheck\obj\Debug\netcoreapp3.1\VowelCheck.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\VowelCheck\VowelCheck\obj\Debug\netcoreapp3.1\VowelCheck.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\VowelCheck\VowelCheck\obj\Debug\netcoreapp3.1\VowelCheck.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\VowelCheck\VowelCheck\obj\Debug\netcoreapp3.1\VowelCheck.dll
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\VowelCheck\VowelCheck\obj\Debug\netcoreapp3.1\VowelCheck.pdb
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\VowelCheck\VowelCheck\obj\Debug\netcoreapp3.1\VowelCheck.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\VowelCheck\VowelCheck\bin\Debug\netcoreapp3.1\VowelCheck.pdb
