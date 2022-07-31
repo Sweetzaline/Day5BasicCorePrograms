@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LargestAmongthree\LargestAmongthree\bin\Debug\netcoreapp3.1\LargestAmongthree.exe
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LargestAmongthree\LargestAmongthree\bin\Debug\netcoreapp3.1\LargestAmongthree.deps.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LargestAmongthree\LargestAmongthree\bin\Debug\netcoreapp3.1\LargestAmongthree.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LargestAmongthree\LargestAmongthree\bin\Debug\netcoreapp3.1\LargestAmongthree.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LargestAmongthree\LargestAmongthree\bin\Debug\netcoreapp3.1\LargestAmongthree.dll
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LargestAmongthree\LargestAmongthree\obj\Debug\netcoreapp3.1\LargestAmongthree.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LargestAmongthree\LargestAmongthree\obj\Debug\netcoreapp3.1\LargestAmongthree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LargestAmongthree\LargestAmongthree\obj\Debug\netcoreapp3.1\LargestAmongthree.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LargestAmongthree\LargestAmongthree\obj\Debug\netcoreapp3.1\LargestAmongthree.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LargestAmongthree\LargestAmongthree\obj\Debug\netcoreapp3.1\LargestAmongthree.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LargestAmongthree\LargestAmongthree\obj\Debug\netcoreapp3.1\LargestAmongthree.dll
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LargestAmongthree\LargestAmongthree\obj\Debug\netcoreapp3.1\LargestAmongthree.pdb
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LargestAmongthree\LargestAmongthree\obj\Debug\netcoreapp3.1\LargestAmongthree.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\Day5BasicCorePrograms\LargestAmongthree\LargestAmongthree\bin\Debug\netcoreapp3.1\LargestAmongthree.pdb
